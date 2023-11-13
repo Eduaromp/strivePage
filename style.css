@@ -269,12 +269,12 @@ h3 {
 
 .card1 {
     grid-area: a;
-    background-image: linear-gradient(rgb(4, 84, 123, 0.5), rgb(4, 84, 123, 0.5)), url("assets\imagenes\IMAGE\ \ CATEGORY\ ADMINISTRATION.jpg");
+    background-image: linear-gradient(rgb(4, 84, 123, 0.5), rgb(4, 84, 123, 0.5)), url("assets/imagenes/IMAGE\ \ CATEGORY\ ADMINISTRATION.jpg");
 }
 
 .card2 {
     grid-area: b;
-    background-image: linear-gradient(rgb(4, 84, 123, 0.5), rgb(4, 84, 123, 0.5)), url("assets\imagenes\IMAGE\ \ CATEGORY\ ACCOUNTING.jpg");
+    background-image: linear-gradient(rgb(4, 84, 123, 0.5), rgb(4, 84, 123, 0.5)), url("assets/imagenes/IMAGE\ \ CATEGORY\ ACCOUNTING.jpg");
 }
 
 .card3 {
@@ -284,17 +284,17 @@ h3 {
 
 .card4 {
     grid-area: d;
-    background-image: linear-gradient(rgb(4, 84, 123, 0.5), rgb(4, 84, 123, 0.5)), url("assets\imagenes\IMAGE\ \ CATEGORY\ MATHEMATICS.jpg");
+    background-image: linear-gradient(rgb(4, 84, 123, 0.5), rgb(4, 84, 123, 0.5)), url("assets/imagenes/IMAGE\ \ CATEGORY\ MATHEMATICS.jpg");
 }
 
 .card5 {
     grid-area: e;
-    background-image: linear-gradient(rgb(4, 84, 123, 0.5), rgb(4, 84, 123, 0.5)), url("assets\imagenes/IMAGE\ \ CATEGORY\ PROGRAMMING.jpg");
+    background-image: linear-gradient(rgb(4, 84, 123, 0.5), rgb(4, 84, 123, 0.5)), url("assets/imagenes/IMAGE\ \ CATEGORY\ PROGRAMMING.jpg");
 }
 
 .card6 {
     grid-area: f;
-    background-image: linear-gradient(rgb(4, 84, 123, 0.5), rgb(4, 84, 123, 0.5)), url("assets\imagenes/IMAGE\ \ CATEGORY\ BIOLOGY.jpg");
+    background-image: linear-gradient(rgb(4, 84, 123, 0.5), rgb(4, 84, 123, 0.5)), url("assets/imagenes/IMAGE\ \ CATEGORY\ BIOLOGY.jpg");
 }
 
 .card1,
